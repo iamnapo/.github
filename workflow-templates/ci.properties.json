@@ -1,7 +1,7 @@
 {
     "name": "Javascript CI Workflow",
     "description": "Javascript CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "javascript",
     "categories": [
         "JavaScript"
     ],
