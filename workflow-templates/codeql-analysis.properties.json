@@ -1,0 +1,11 @@
+{
+  "name": "Javascript CodeQL Workflow",
+  "description": "Javascript CodeQL workflow template.",
+  "iconName": "javascript",
+  "categories": [
+      "JavaScript"
+  ],
+  "filePatterns": [
+      "package.json$"
+  ]
+}

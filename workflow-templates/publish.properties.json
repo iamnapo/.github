@@ -1,0 +1,11 @@
+{
+  "name": "Javascript Publish to GitHub Registry Workflow",
+  "description": "Javascript publish to GitHub registry workflow template.",
+  "iconName": "javascript",
+  "categories": [
+      "JavaScript"
+  ],
+  "filePatterns": [
+      "package.json$"
+  ]
+}
